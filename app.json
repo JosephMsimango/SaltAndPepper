@@ -1,0 +1,16 @@
+{
+  "name": "SaltAndPepper",
+  "displayName": "SaltAndPepper",
+  "android": {
+
+    "softwareKeyboardLayoutMode": "pan"
+  },
+  "expo": {
+    "name": "SaltAndPepper",
+    "slug": "SaltAndPepper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
