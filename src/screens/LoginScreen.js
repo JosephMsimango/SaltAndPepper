@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import {StyleSheet,Modal,Text,View,TextInput, KeyboardAvoidingView, ImageBackground, CheckBox} from 'react-native';
 import Logo from "../components/pages/Logo";
 import imageBackground from "../components/images/imageBackground.png"
-import { ScrollView, TouchableOpacity } from 'react-native-gesture-handler';
+import { ScrollView,TouchableOpacity } from 'react-native-gesture-handler';
 import { MaterialIcons } from '@expo/vector-icons';
 
 class LoginScreen extends Component{
